@@ -48,16 +48,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cemililkim/cemililkim/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cemililkim/cemililkim/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cemililkim/cemililkim/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
 <h3 align="left">📞 Let’s Connect!</h3>
 
 ###
@@ -69,7 +59,7 @@
   <a href="https://www.instagram.com/cemililkim" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="cemililkimteke5934@gmail.com" target="_blank">
+  <a href="mailto:cemililkimteke5934@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@cemililkimteke" target="_blank">
