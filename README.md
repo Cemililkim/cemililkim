@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 I’m a developer who loves building clean, functional, and creative stuff — from web apps to mobile projects and everything in between.<br>🚀 I’ve worked with Next.js, TypeScript, Flutter, ASP.NET Core MVC, and Supabase, turning ideas into actual working things (and occasionally bugs… lots of bugs 🐛).<br>🧠 I’m all about learning, improving, and shipping — whether it’s a budget tracking app, a crowdfunding platform, or a real-time chat system.<br>💼 My goal? Start my own business and create software that actually matters.</p>
+<p align="left">💻 I’m a developer who loves building clean, functional, and creative stuff from web apps to mobile projects and everything in between.<br>🚀 I’ve worked with Next.js, TypeScript, Flutter, ASP.NET Core MVC, and Supabase, turning ideas into actual working things (and occasionally bugs… lots of bugs 🐛).<br>🧠 I’m all about learning, improving, and shipping whether it’s a budget tracking app, a crowdfunding platform, or a real-time chat system.<br>💼 My goal? Start my own business and create software that actually matters.</p>
 
 ###
 
